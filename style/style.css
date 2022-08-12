@@ -64,8 +64,7 @@ body {
 /* Footer */
 
 .footer {
+  margin-top: 2em;
   text-align: center;
-  position: fixed;
-  bottom: 1em;
   width: 100%;
 }
